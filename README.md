@@ -19,9 +19,7 @@ Create model structure.
 result.ipynb:
  Visualize the result.
 
-## Due to github space limitations, please download the datasets from kaggle using command below and put it in Datasets/bengaliai-cv19
-kaggle competitions download -c bengaliai-cv19
-
+## Description of the dataset
 train.csv
 image_id: the foreign key for the parquet files;
 grapheme_root: the first of the three target classes;
@@ -44,6 +42,9 @@ Each parquet file contains tens of thousands of 137x236 grayscale images. The im
 
 class_map.csv
 Maps the class labels to the actual Bengali grapheme components.
+
+## Due to github space limitations, please download the datasets from kaggle using command below and put it in Datasets/bengaliai-cv19
+kaggle competitions download -c bengaliai-cv19
 
 ## package required:
 numpy
