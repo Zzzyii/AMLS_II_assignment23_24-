@@ -44,7 +44,7 @@ class_map.csv
 Maps the class labels to the actual Bengali grapheme components.
 
 ## Due to github space limitations, please download the datasets from kaggle using command below and put it in Datasets/bengaliai-cv19
-`kaggle competitions download -c bengaliai-cv19`
+```kaggle competitions download -c bengaliai-cv19```
 
 ## package required:
 numpy
