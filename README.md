@@ -1,5 +1,6 @@
 ## How to run
 Just run the main.py file.
+You can see the result in A/main.ipynb
 
 ## The role of each file
 #### main.py: 
