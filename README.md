@@ -57,3 +57,5 @@ scikit-learn
 Pillow
 matplotlib
 seaborn
+## Reference
+https://www.kaggle.com/competitions/bengaliai-cv19/overview
