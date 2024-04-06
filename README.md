@@ -16,8 +16,8 @@ task.py:
 Contain some functions needed;
 Create model structure.
 
-result.ipynb:
- Visualize the result.
+main.ipynb:
+ Visualise the results of code execution.
 
 ## Description of the dataset
 train.csv
