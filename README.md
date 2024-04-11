@@ -52,6 +52,7 @@ Maps the class labels to the actual Bengali grapheme components.
 kaggle competitions download -c bengaliai-cv19
 ```
 ## package required:
+```
 numpy
 pandas
 tqdm
@@ -62,5 +63,6 @@ scikit-learn
 Pillow
 matplotlib
 seaborn
+```
 ## Reference
 https://www.kaggle.com/competitions/bengaliai-cv19/overview
