@@ -1,6 +1,9 @@
 ## How to run
 Just run the main.py file.
-If you want to see the result step by step, just open A/main.ipynb
+```bash
+python main.py
+
+If you want to see the result step by step, just open ```A/main.ipynb```
 
 ## The role of each file
 #### main.py: 
@@ -45,7 +48,8 @@ Each parquet file contains tens of thousands of 137x236 grayscale images. The im
 Maps the class labels to the actual Bengali grapheme components.
 
 ## Due to github space limitations, please download the datasets from kaggle using command below and put it in Datasets/bengaliai-cv19
-```kaggle competitions download -c bengaliai-cv19```
+```bash
+kaggle competitions download -c bengaliai-cv19
 
 ## package required:
 numpy
