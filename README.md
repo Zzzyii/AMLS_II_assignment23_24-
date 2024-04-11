@@ -52,7 +52,7 @@ Maps the class labels to the actual Bengali grapheme components.
 kaggle competitions download -c bengaliai-cv19
 ```
 ## package required:
-```
+```bash
 numpy
 pandas
 tqdm
