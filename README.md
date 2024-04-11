@@ -2,7 +2,7 @@
 Just run the main.py file.
 ```bash
 python main.py
-
+```
 If you want to see the result step by step, just open ```A/main.ipynb```
 
 ## The role of each file
@@ -50,7 +50,7 @@ Maps the class labels to the actual Bengali grapheme components.
 ## Due to github space limitations, please download the datasets from kaggle using command below and put it in Datasets/bengaliai-cv19
 ```bash
 kaggle competitions download -c bengaliai-cv19
-
+```
 ## package required:
 numpy
 pandas
